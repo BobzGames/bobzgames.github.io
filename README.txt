@@ -1,6 +1,4 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 
 This is a test.
 So I've had the wireframe for this particular design kicking around for some time, but with all
@@ -20,7 +18,11 @@ aj@lkn.io | @ajlkn
 
 
 Credits:
-
+	Design:
+		Hyperspace by HTML5 UP
+		html5up.net | @ajlkn
+		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+		
 	Demo Images:
 		Unsplash (unsplash.com)
 
