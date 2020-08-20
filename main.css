@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #312450;
+			background: #2e0b0b;
 		}
 
 		select:focus::-ms-value {
@@ -2444,7 +2444,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #b3b3b3;
 			content: '\f00c';
 		}
 
@@ -2525,7 +2525,7 @@ input, select, textarea {
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #312450;
+			color: #4f4f4f;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2536,27 +2536,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #9c9797;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #878787;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #b0acad;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #919191;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #bababa;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #8f8f8f;
 				}
 
 /* Image */
@@ -3235,33 +3235,29 @@ input, select, textarea {
 
 			}
 
-		.wrapper.alt {
-			background-color: #261c3e;
-		}
+		.wrapper.style1 .icon.major:before {
+					color: #9c9797;
+				}
 
-		.wrapper.style1 {
-			background-color: #5e42a6;
-		}
+				.wrapper.style1-alt .icon.major:before {
+					color: #878787;
+				}
 
-		.wrapper.style1-alt {
-			background-color: #493382;
-		}
+				.wrapper.style2 .icon.major:before {
+					color: #b0acad;
+				}
 
-		.wrapper.style2 {
-			background-color: #5052b5;
-		}
+				.wrapper.style2-alt .icon.major:before {
+					color: #919191;
+				}
 
-		.wrapper.style2-alt {
-			background-color: #3e4094;
-		}
+				.wrapper.style3 .icon.major:before {
+					color: #bababa;
+				}
 
-		.wrapper.style3 {
-			background-color: #b74e91;
-		}
-
-		.wrapper.style3-alt {
-			background-color: #953d75;
-		}
+				.wrapper.style3-alt .icon.major:before {
+					color: #8f8f8f;
+						}
 
 		.wrapper.fullscreen {
 			display: -moz-flex;
