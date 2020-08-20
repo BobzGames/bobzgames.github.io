@@ -1,9 +1,9 @@
 
 
-This is the repository for the <a href="https://bobzgames.github.io/games/">BobzGames Github site</a>. If you couldn't tell,
+This is the repository for the BobzGames Github site. If you couldn't tell,
 I barely know what I'm doing. Ciao!
 
-
+[link](https://bobzgames.github.io/games/)
 Credits:
 
 	Design:
