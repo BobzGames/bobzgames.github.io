@@ -1,5 +1,4 @@
-// Extension converted by Mrcomputer1's ScratchXto3
-// https://mrcomputer1.github.io/ScratchXto3
+// 
 
 var Extext = function(runtimeProxy){
 	this.runtime = runtimeProxy;
