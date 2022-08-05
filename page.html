@@ -11,8 +11,10 @@
   gtag('config', 'G-C7R3HDPR83');
 </script>
 <script>
-  const product = urlParams.get('page')
-  console.log(page);
+const pageCheck = window.location.search;
+const urlParams = new URLSearchParams(pageCheck);
+const page = urlParams.get('page')
+console.log(page);
   
   function checkPage() {
   if ((urlParams.get('page'))="home") {
