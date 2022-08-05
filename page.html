@@ -14,11 +14,11 @@
   const product = urlParams.get('page')
   console.log(page);
   
-    if ((urlParams.get('page'))="games") {
-  document.getElementById("games").click();
-}
+  function checkPage() {
   if ((urlParams.get('page'))="home") {
-  document.getElementById("home").click();
+  document.getElementById("home").click();}
+  if ((urlParams.get('page'))="games") {
+  document.getElementById("games").click();}
 }
 </script>
 
@@ -89,7 +89,7 @@ pre {font-family: Arial;}
 }
 </style>
 </head>
-<body>
+<body onLoad="checkPage()">
   
 <header><div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Home')" id="home">Home</button>
